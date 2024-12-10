@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vav3hzmCsU9JziuwwJ02`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
 
    
 
@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'chatme',
+zokou({ nomCom: 'me',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '😎', 
@@ -90,8 +90,8 @@ zokou({ nomCom: 'chatme',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*Tap Here To Chat with HANSTZ * > https://wa.me/255692540143
-> https://wa.me/255756530143
-> https://wa.me/255760774888`) 
+> https://wa.me/255784766591
+> https://wa.me/255756469954`) 
 
    
 
@@ -111,7 +111,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_HANS MD🌝is running on its latest vision_*`) 
+                 await repondre(`*_TIMNASA MD🌝is running on its latest vision_*`) 
 
    
 
@@ -131,7 +131,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_HANS  MD_*`) 
+                 await repondre(`*_TIMNASA TECH OF BOT  MD_*`) 
 
    
 
@@ -141,7 +141,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'hansmd',
+zokou({ nomCom: 'Tech',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🌀', 
@@ -191,7 +191,7 @@ zokou({ nomCom: 'hack',
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
     "POWERED BY HANS MD",
-    "By HANS TECH`) 
+    "By TIMNASA TECH`) 
 
    
 
@@ -202,7 +202,7 @@ zokou({ nomCom: 'hack',
 
 
 
-zokou({ nomCom: 'problem',
+zokou({ nomCom: 'Super,
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🔎', 
@@ -214,19 +214,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━━
-┃HANS-MD 
+┃TIMNASA-MD 
 | 
 ┃   
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 HANS TZ 𖥘
+❶ || Creator = 𖥘 TIMNASA-MD 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vav3hzmCsU9JziuwwJ02
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Githubu
-✌️ https://github.com/Mrhanstz
+✌️ https://github.com/Halisi1234/
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2099 HANS TECH_*`) 
+©*2025-2099 TIMNASATZ TECH_*`) 
 
    
 
