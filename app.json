@@ -1,14 +1,14 @@
 {
-  "name": "HANS-MD",
-  "description": "This BOT was developed by Hanstztech.",
+  "name": "TIMNASA-MD",
+  "description": "This BOT was developed by TimothTimnasa.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/l1i9o4.jpg",
-  "repository": "https://github.com/Mrhanntz/HANS-MD",
+  "logo": "https://files.catbox.moe/v2c8de.jpeg",
+  "repository": "https://github.com/Halisi1234/TIMNASA_V7",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -44,12 +44,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "HANS-MD",
+      "value": "TIMNASA-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/l1i9o4.jpg",
+      "value":"https://files.catbox.moe/v2c8de.jpeg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -75,12 +75,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "HANS TZ"
+      "value": "Timoth"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255760774888"
+      "value": "255784766591"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
