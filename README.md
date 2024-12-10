@@ -65,7 +65,7 @@ postgresql://timnasa:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a
 
 •Deploy.
     <br>
-    <a href='https://replit.com/github/Halisi1234/TIMNASA_V7' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=orange'/></a>
+    <a href='https://replit.com/github/Halisi1234/TIMNASA_V7' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=red'/></a>
 
 **•Koyeb and Render Deploy now available**
 
@@ -86,6 +86,6 @@ _Termux Setup not recommended_
 
 **contributors**
 
-***Thank To [FREDIETECH](https://github.com/Fred1e) For Ading Files And Coding***
+***Thank To [FREDIETECH](https://github.com/Fred1e) For Adding Files And Coding***
 
 * [🧑‍💻 Follow The Timnasa whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31)
