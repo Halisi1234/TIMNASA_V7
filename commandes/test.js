@@ -15,8 +15,8 @@ zokou({
     console.log("Commande saisie !!!");
 
     // Message content
-    let z = '𝐡𝐞𝐥𝐥𝐨𝐰 𝐭𝐡𝐢𝐬 𝐢𝐬 *ℍ𝔸ℕ𝕊 𝕄𝔻🇹🇿  * \n\n' + "i'm a whatsapp bot multi-device created ";
-    let d = ' by *hanstz Tech⚠️ *';
+    let z = '𝐡𝐞𝐥𝐥𝐨𝐰 𝐭𝐡𝐢𝐬 𝐢𝐬 *timnasa Detested from tz  * \n\n' + "i'm a whatsapp bot multi-device created ";
+    let d = ' by *timnasa Tech⚠️ *';
     let varmess = z + d;
 
     // Photo file path (local)
