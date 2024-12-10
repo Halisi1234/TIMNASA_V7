@@ -26,7 +26,7 @@ TIMNASA MD V7
 
  GET SESSION ID HERE
  <br>
- <a href='https://session-generator-1-oec3.onrender.com/' target="_pink"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=toyota&logoColor=blue'/></a> 
+ <a href='https://session-generator-1-oec3.onrender.com/' target="_pink"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=toyota&logoColor=white'/></a> 
 
 **DEPLOY ON HEROKU**
 
