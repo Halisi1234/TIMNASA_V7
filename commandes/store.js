@@ -22,7 +22,7 @@ zokou({ nomCom: "cpu", categorie: "deploy" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = " *HANS MD*\n\n";
+    let menuMsg = " *TIMNASA MD*\n\n";
     /*menuMsg+=`
     
     
@@ -48,7 +48,7 @@ zokou({ nomCom: "cpu", categorie: "deploy" }, async (dest, zk, commandeOptions) 
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
-𝙷𝙴𝙻𝙻𝙾𝚆 :HI ${ms.pushName} THIS IS HANS MD CPU INFO 🖥️
+𝙷𝙴𝙻𝙻𝙾𝚆 :HI ${ms.pushName} THIS IS TIMNASA-MD  CPU INFO 🖥️
 Response Speed 0.0093 _Second_ 
  0.007519999518990517 _miliseconds_
 
@@ -166,9 +166,9 @@ _CPU Core(s) Usage (12 Core CPU)_
             menuMsg += "";
         }
     }
-    var link = "https://files.catbox.moe/3vkm13.jpeg";
+    var link = "https://files.catbox.moe/v2c8de.jpeg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©HANS INC" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©TIMNASATZ LTD" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
