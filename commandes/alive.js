@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *HANS-MD-WA-BOT2025*`
+ *TIMNASA-MD-WA-BOT2025*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,7 +71,7 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("ℍ𝕀 👋 ℍ𝔸ℕ𝕊-𝕄𝔻-𝕀𝕊-𝔸𝕃𝕀𝕍𝔼-𝔸ℕ𝕐-𝕋𝕀𝕄𝔼") ; return};
+        if(!superUser) { repondre("ℍ𝕀 👋 𝕋𝕀𝕄ℕ𝔸𝕊𝔸-𝕄𝔻-𝕀𝕊-𝔸𝕃𝕀𝕍𝔼-𝔸ℕ𝕐-𝕋𝕀𝕄𝔼 𝔼ℕ𝔻 𝔼𝕍𝔼ℝ𝕐 𝔻𝔸𝕐") ; return};
 
       await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake thinks :)")
