@@ -51,16 +51,16 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "✌️" }, async (dest
   }
 });
 
-zokou({ nomCom: "dev", categorie: "hansinfo", reaction: "✨" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "dev", categorie: "info", reaction: "✨" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "hanstz😎", numero: "255760774888" },
-      { nom: "hans teach", numero: "255756530143" },
+      { nom: "timnasa_v7😎", numero: "255784766591" },
+      { nom: "timnasa tech", numero: "255756469954" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋🤓 𝗵𝗲𝗹𝗹𝗼𝘄 𝘄𝗲𝗹𝗰𝗼𝗺𝗲🤝 To ✨𝗛𝗔𝗡𝗦-𝗠𝗗✨  𝗵𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝘃 :\n\n";
+    let message = "👋🤓 𝗵𝗲𝗹𝗹𝗼𝘄 𝘄𝗲𝗹𝗰𝗼𝗺𝗲🤝 To ✨TIMNASA-V7✨  𝗵𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝘃 :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vav3hzmCsU9JziuwwJ02`},{quoted :ms})
+  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`},{quoted :ms})
 
 })
 
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "✌️" }, async (
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "HI✌️AM HANS😎TZ", numero: "255760774888" },
-      { nom: "hans teach", numero: "255756530143" },
+      { nom: "HI✌️AM TIMNASA_V7", numero: "255784766591" },
+      { nom: "Timnasa teach", numero: "255756469954" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = " HI👋 *Welcome to hans md * here is the developer numbers:\n\n";
+    let message = " HI👋 *Welcome to timnasa md * here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
