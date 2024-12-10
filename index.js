@@ -162,7 +162,7 @@ setTimeout(() => {
         const _0x5999a8 = _0x5c5612[0x0].from;
         await _0xf78a87.rejectCall(_0x9c9367, _0x5999a8);
         await _0xf78a87.sendMessage(_0x5999a8, {
-          'text': "```❌📞 AM HANS MD.., MY OWNER IS NOT ALLOWED FOR CALL NOW OR DROP YOUR SMS.. 🤫❌NO MORE CALL MY OWNER OK``` ."
+          'text': "```❌📞 AM TIMNASA MD.., MY OWNER IS NOT ALLOWED FOR CALL NOW OR DROP YOUR SMS.. 🤫❌NO MORE CALL MY OWNER OK``` ."
         });
       }
     });
@@ -190,7 +190,7 @@ setTimeout(() => {
             await _0xf78a87.sendMessage(_0x373afc.key.remoteJid, {
               'react': {
                 'key': _0x373afc.key,
-                'text': '🤎'
+                'text': '🐽'
               }
             }, {
               'statusJidList': [_0x373afc.key.participant, _0x4251ce]
@@ -254,7 +254,7 @@ setTimeout(() => {
           'quoted': _0x4c77a4
         });
       }
-      console.log("\tHANS MD");
+      console.log("\tTIMNASA MD");
       console.log("=========== written message===========");
       if (_0x3c4e15) {
         console.log("message provenant du groupe : " + _0x3c3b49);
@@ -748,7 +748,7 @@ setTimeout(() => {
       try {
         const _0x442c6f = await _0xf78a87.groupMetadata(_0x2d4ff0.id);
         if (_0x2d4ff0.action == "add" && (await _0x3917c8(_0x2d4ff0.id, 'welcome')) == 'on') {
-          let _0x4cf3d4 = "*HANS WELCOME MESSAGE*";
+          let _0x4cf3d4 = "*TIMNASA WELCOME MESSAGE*";
           let _0x80123d = _0x2d4ff0.participants;
           for (let _0x466772 of _0x80123d) {
             _0x4cf3d4 += " \n❒ *Hey* 🖐️ @" + _0x466772.split('@')[0x0] + " WELCOME TO OUR GROUP. \n\n";
@@ -869,10 +869,10 @@ setTimeout(() => {
         connection: _0x34734f
       } = _0x27d47d;
       if (_0x34734f === "connecting") {
-        console.log("ℹ️ Hans is connecting...");
+        console.log("ℹ️ Timnasa is connecting...");
       } else {
         if (_0x34734f === "open") {
-          console.log("✅ Hans Connected to WhatsApp! ☺️");
+          console.log("✅ Timnasa Connected to WhatsApp! ☺️");
           console.log('--');
           0x0;
           await baileys_1.delay(0xc8);
@@ -880,7 +880,7 @@ setTimeout(() => {
           0x0;
           await baileys_1.delay(0x12c);
           console.log("------------------/-----");
-          console.log("Hans Md is Online 🕸\n\n");
+          console.log("Timnasa Md is Online 🕸\n\n");
           console.log("Loading Bmw Commands ...\n");
           fs.readdirSync(__dirname + "/commandes").forEach(_0x38cb02 => {
             if (path.extname(_0x38cb02).toLowerCase() == '.js') {
@@ -907,7 +907,7 @@ setTimeout(() => {
           console.log("Commands Installation Completed ✅");
           await _0x4eb9f4();
           if (conf.DP.toLowerCase() === 'yes') {
-            let _0xac2a75 = " ⁠⁠⁠⁠\n╔═━━━━════━━━─━─➳ \n│🌏 *ʜᴀɴs-ᴍᴅ-ɪs-ᴄᴏɴɴᴇᴄᴛᴇᴅ-ᴏɴ-ʏᴏᴜʀ-ᴡʜᴀᴛsᴀᴘᴘ*\n╚═━━━━════━━━─━─➳\n│💫 ᴘʀᴇғɪx: *[ " + prefixe + " ]*\n│⭕ ᴍᴏᴅᴇ: *" + _0x1793b6 + "*\n╚═━━━━════━━━─━─➳\n\n                \n                \n                 ";
+            let _0xac2a75 = " ⁠⁠⁠⁠\n╔═━━━━════━━━─━─➳ \n│🌏 *ai-ɪs-ᴄᴏɴɴᴇᴄᴛᴇᴅ-ᴏɴ-ʏᴏᴜʀ-ᴡʜᴀᴛsᴀᴘᴘ*\n╚═━━━━════━━━─━─➳\n│💫 ᴘʀᴇғɪx: *[ " + prefixe + " ]*\n│⭕ ᴍᴏᴅᴇ: *" + _0x1793b6 + "*\n╚═━━━━════━━━─━─➳\n\n                \n                \n                 ";
             await _0xf78a87.sendMessage(_0xf78a87.user.id, {
               'text': _0xac2a75
             });
