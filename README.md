@@ -79,7 +79,7 @@ _Termux Setup not recommended_
     <td>Timotheo</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Fred1e"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/Fred1e"><img src="https://files.catbox.moe/7irwqn.jpeg" width="180"</td>
     <td><a href="https://github.com/https://github.com/Halisi1234"><img src="https://files.catbox.moe/v2c8de.jpeg" width="180"</td>
   </tr>
 </table>
