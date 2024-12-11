@@ -24,7 +24,7 @@ zokou(
     const {
       ms, arg, repondre
     } = commandOptions;
-    const start = new Date().getTime(1000000000000000000.000000);
+    const start = new Date().getTime(0.000000);
     const msg = await zk.sendMessage(dest, {
       text: '*Testing Ping!!!*',
     }, {
@@ -33,7 +33,7 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*timnasa/9000000000*
+      text: `*TIMNASA:SPEED:.9000000000/M*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
