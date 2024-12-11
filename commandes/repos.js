@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Fred1e/LUCKY_MD';
-  const img = 'https://files.catbox.moe/xee8ol.jpg';
+  const githubRepo = 'https://api.github.com/repos/Halisi1234/TIMNASA_V7';
+  const img = 'https://files.catbox.moe/v2c8de.jpeg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,22 +22,22 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = ` *Hellow User
-This Is* *LUCKY_MD.*\n _Support Our Channel_ *by follow*,  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+This Is* *TIMNASA_MD.*\n _Support Our Channel_ *by follow*,  https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 
 🗼 *REPOSITORY:* ${data.html_url}
 
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
 ⊷━━━━━━☆•∞•☆━━━━━━⊷  
 
- ╭━━═✺ *FREDIE* ✺═━━⊷
+ ╭━━═✺ *timoth* ✺═━━⊷
  ┊│┌═━━⊷•∞•⊷━━─⊛
  ┌┤┊❁*VISITORS:* ${repoInfo.visitors}
  ┊│┊❁ *STARS:* ${repoInfo.stars}
  ┊│┊❁ *FORKS:* ${repoInfo.forks}
  ┊│┊❁ *RELEASE DATE:* ${releaseDate}
- ┌┤┊❁ *OWNER:* *Fredie tech*
- ┊│┊❁ *THEME:* *FREDI*
- ┊│┊❁ *ENJOY TO USE LUCKY MD*
+ ┌┤┊❁ *OWNER:* *timoth tech*
+ ┊│┊❁ *THEME:* *FREZ*
+ ┊│┊❁ *ENJOY TO USE TIMNASA MD*
  ┊│└═━━⊷•∞•⊷━━─⊛
  ╰━━━═⊷✺•∞•✺⊷═━━━⊷ 
  
