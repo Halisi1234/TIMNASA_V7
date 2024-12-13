@@ -26,20 +26,20 @@ zokou(
     } = commandOptions;
     const start = new Date().getTime(0.000000);
     const msg = await zk.sendMessage(dest, {
-      text: '*Testing Ping!!!*',
+      text: '*Timnasa is Ping!!!*',
     }, {
       quoted: ms
     });
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*TIMNASA:SPEED:.9000000000/M*
+      text: `*TIMNASA:SPEED|9000000000/M*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
     await zk.sendMessage(dest, {
       react: {
-        text: "⚙️", key: ms.key
+        text: "🥶", key: ms.key
       }})
   }
 )
