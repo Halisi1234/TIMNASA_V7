@@ -1,5 +1,5 @@
-var tabCmds = [me];
-let cm = [me];
+var tabCmds = [];
+let cm = [];
 function zokou(obj, fonctions) {
     let infoComs = obj;
     if (!obj.categorie) {
@@ -10,8 +10,7 @@ function zokou(obj, fonctions) {
     }
     infoComs.fonction = fonctions;
     cm.push(infoComs);
-   ' // console.log('chargement...')
+    // console.log('chargement...')
     return infoComs;
 }
 module.exports = { zokou, Module: zokou, cm };
-
