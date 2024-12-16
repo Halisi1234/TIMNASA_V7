@@ -33,13 +33,13 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*TIMNASA:SPEED|9000000000/M*
+      text: `*TIMNASA:SPEED IS .9000000000/M*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
     await zk.sendMessage(dest, {
       react: {
-        text: "🥶", key: ms.key
+        text: "🇦🇷", key: ms.key
       }})
   }
 )
